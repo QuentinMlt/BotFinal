@@ -56,4 +56,4 @@ async def l(ctx,*request):
 
 
 
-bot.run("ODUxODI4ODI5MDIyMzIyNzM5.YL99aw.LTfa4Dgx769e25QXTZeQLSOYNLw")
+bot.run("")
